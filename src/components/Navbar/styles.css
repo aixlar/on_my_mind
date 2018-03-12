@@ -1,0 +1,35 @@
+.navbar {
+  background-color: rgb(2, 5, 19);
+  color: white;
+  margin-bottom: 30px;
+  height: 55px;
+}
+
+.btn__wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 600px;
+}
+
+.white_border {
+}
+
+.btn__mod {
+  width: 125px;
+  margin: 20px 20px;
+}
+
+
+@media (max-width: 800px) {
+  .btn__wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 0px;
+  }
+
+  .btn__mod {
+    width: 140px;
+    margin: 20px 20px;
+  }
+
+}

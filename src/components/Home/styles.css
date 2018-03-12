@@ -1,0 +1,17 @@
+
+.main__title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.post__title {
+  margin-top: 20px;
+}
+
+.post__id {
+  font-size: 12px;
+}
+
+.post__value {
+  text-align: center;
+}

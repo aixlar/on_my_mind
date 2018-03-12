@@ -1,0 +1,48 @@
+.post_wrapper {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid lightblue;
+  border-radius: 5px;
+  max-width: 500px;
+  height: 500px;
+  padding: 10px 10px;
+}
+
+.create_post_form {
+  margin-top: 20px;
+}
+
+.create_post_input {
+  margin-bottom: 10px;
+  margin-top: 5px;
+  width: 100%;
+}
+
+.create_post_textarea {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.create_post_send {
+  width: 120px;
+  text-align: center;
+  height: 35px;
+  border-radius: 5px;
+  background-color: green;
+  color: white;
+  display: none;
+}
+
+
+.image_preview {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 50px;
+  height: 50px;
+}
+
+.btns {
+  margin-top: 20px;
+  min-width: 130px;
+}
